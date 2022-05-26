@@ -1,3 +1,36 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "Angeloni",
+      "empresa": "Coop transporte",
+      "email": "angeloni@angeloni.com",
+      "telefono": "23242342",
+      "notas": "cotizacion de transporte",
+      "id": 1
+    },
+    {
+      "nombre": "Carlos",
+      "empresa": "CM7",
+      "email": "correo@correo.com",
+      "telefono": "42342243",
+      "notas": "cliente recomendado",
+      "id": 2
+    },
+    {
+      "nombre": "Alison ",
+      "empresa": "Ali seguridad",
+      "email": "ali@ali.com",
+      "telefono": "2324324234",
+      "notas": "cotización de servicio de asesoramiento de seguridad ocupacional",
+      "id": 3
+    },
+    {
+      "nombre": "Israel",
+      "empresa": "Desarrollador informatico",
+      "email": "israel@israel.com",
+      "telefono": "123124242343",
+      "notas": "cotización de aplicación mobil",
+      "id": 4
+    }
+  ]
 }
